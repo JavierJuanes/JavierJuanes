@@ -33,17 +33,26 @@
   </a>
 </p>
 
+
 <!-- Proyectos -->
 <h3 align="left">Algunos proyectos 👨🏻‍💻</h3>
-<div align="center">
-  <a href="http://pagina-listado-productos-jhjj.netlify.app/" title="Ir al sitio web" target="_blank">
-    <img align="center" width="300px" src="https://i.ibb.co/vvwKjBgp/Screenshot-2025-05-28-125523.png" alt="Vista previa del proyecto" />
-  </a>
+<table align="center" cellspacing="40">
+  <tr>
+    <td style="border: 3px solid white; padding: 5px; border-radius: 8px;">
+      <a href="http://pagina-listado-productos-jhjj.netlify.app/" title="Ir al sitio web" target="_blank">
+        <img width="300px" src="https://i.ibb.co/vvwKjBgp/Screenshot-2025-05-28-125523.png" alt="Vista previa del proyecto" />
+      </a>
+    </td>
+    <td style="border: 3px solid white; padding: 5px; border-radius: 8px;">
+      <a href="https://lista-tareas-angular-jhjj.netlify.app/" title="Ir al sitio web" target="_blank">
+        <img width="300px" src="https://i.ibb.co/Y4xJfVM3/Screenshot-2025-05-28-125439.png" alt="Vista previa del proyecto" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-   <a href="https://lista-tareas-angular-jhjj.netlify.app/" title="Ir al sitio web" target="_blank">
-    <img align="center" width="300px" src="https://i.ibb.co/Y4xJfVM3/Screenshot-2025-05-28-125439.png" />
-  </a>
-</div>
+
+
 
 <!-- Conexión -->
 <h3 align="left">Conecta conmigo:</h3>
@@ -66,5 +75,3 @@
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierJuanes&show_icons=true&theme=dark&locale=en" alt="Estadísticas generales" />
 </div>
-
-
