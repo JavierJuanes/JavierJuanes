@@ -2,7 +2,7 @@
 <div align="center">
   <h1 id="web-developer-js-nodejs--python">Juan Javier Juanes Hinojosa 💻</h1>
   <img 
-    src="https://i.ibb.co/0yQrwJM1/Portada-para-Facebook-Marketing-de-Afiliados-Vibrante-Naranja.jpg" 
+    src="https://ibb.co/S49p5ZtC" 
     alt="Imagen de cabecera" 
     style="max-width: 100%; height: auto;" 
   />
@@ -68,10 +68,3 @@
   </a>
 </p>
 
-<!-- Estadísticas GitHub -->
-<h3 align="left">Mis estadísticas GitHub</h3>
-<div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierJuanes&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top lenguajes" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierJuanes&show_icons=true&theme=dark&locale=en" alt="Estadísticas generales" />
-</div>
