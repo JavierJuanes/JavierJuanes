@@ -1,27 +1,26 @@
-<!-- Encabezado con nombre e imagen -->
-<div align="center">
-  <h1 id="web-developer-js-nodejs--python">Juan Javier Juanes Hinojosa 💻</h1>
-  <img 
-    src="https://ibb.co/S49p5ZtC" 
-    alt="Imagen de cabecera" 
-    style="max-width: 100%; height: auto;" 
-  />
-</div>
-
 <!-- Descripción personal -->
 <section align="left">
   <p>
-    Estudiante del <strong>modelo Dual</strong> de la carrera de <strong>Ingeniería en Sistemas Computacionales</strong> en el 
-    <em>Instituto Tecnológico Superior Zacatecas Norte</em>.
+    💻 <strong>Desarrollador de Software Full Stack</strong> con experiencia en desarrollo web utilizando
+    <strong>Angular (v6–20)</strong>, <strong>TypeScript</strong>, <strong>C#</strong>, <strong>SQL</strong> y
+    <strong>APIs REST</strong>.
   </p>
+
   <p>
-    Desarrollador apasionado por la <strong>programación web</strong> y <strong>Android</strong>, siempre con ganas de seguir aprendiendo 
-    y ampliando mis conocimientos.
+    He participado en el desarrollo, mantenimiento y migración de sistemas empresariales,
+    colaborando en proyectos financieros, educativos y soluciones web de gestión.
+    Mi experiencia combina desarrollo de software, aseguramiento de calidad (QA) e integración
+    de servicios para crear aplicaciones escalables y mantenibles.
   </p>
+
   <ul style="list-style: none; padding-left: 0;">
-    <li>📌 Participante activo en concursos de programación competitiva.</li>
-    <li>🚀 Presidente del club de programación <strong>CoyotesDev</strong>.</li>
-    <li>💼 Miembro del <strong>Centro de Desarrollo y Capacitación</strong> del ITSZN.</li>
+    <li>🚀 Experiencia en Angular, C#, SQL Server, MySQL, Firebase y Node.js.</li>
+    <li>🔄 Participación en la migración de aplicaciones de Angular 6 a Angular 20.</li>
+    <li>🧪 Experiencia en QA, testing funcional, pruebas de regresión y APIs con Postman.</li>
+    <li>🔗 Integración de sistemas mediante APIs REST y soluciones contables.</li>
+    <li>📚 Líder del club de programación <strong>CoyotesDev</strong>.</li>
+    <li>🏆 Competidor en ICPC Nacional y ganador de concursos de programación.</li>
+    <li>⭐ Reconocido por excelencia académica y liderazgo tecnológico.</li>
   </ul>
 </section>
 
