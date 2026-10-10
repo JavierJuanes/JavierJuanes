@@ -1,5 +1,5 @@
 <!-- Presentación -->
-<h1 align="center">Javier Juanes</h1>
+<h1 align="center">Javier Juanes Hinojosa</h1>
 
 <h3 align="center">Ingeniero en Sistemas Computacionales | Desarrollo de Software | Redes y Telecomunicaciones</h3>
 
@@ -87,13 +87,12 @@ Estos son algunos de los proyectos web que he desarrollado y publicado. Puedes v
         <img src="https://i.ibb.co/CsmSJ8sf/Captura-de-pantalla-2026-10-10-160510.png" width="100%" alt="Vista previa del proyecto 2" />
       </a>
       <br />
-      <strong>Proyecto 2</strong>
-      <br />
+       <br />
       <a href="https://famous-nasturtium-6df3e0.netlify.app" target="_blank" rel="noopener noreferrer">Ver sitio web</a>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://thunderous-gumption-d44ff2.netlify.app" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.ibb.co/9mPVQz2n/Captura-de-pantalla-2026-10-10-155545.png" width="100%" alt="Vista previa del proyecto 3" />
+        <img src="https://i.ibb.co/CsmSJ8sf/Captura-de-pantalla-2026-10-10-160510.png" width="100%" alt="Vista previa del proyecto 3" />
       </a>
       <br />
       <strong>Proyecto 3</strong>
