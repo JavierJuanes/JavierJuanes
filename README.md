@@ -71,30 +71,31 @@ Participación en actividades técnicas y operativas en entornos mineros, siguie
 
 ## Proyectos destacados
 
-Estos son algunos de mis proyectos web publicados. Selecciona una imagen para visitar el sitio correspondiente.
-
 <table>
   <tr>
-    <td align="center" valign="top" width="33%">
-      <a href="https://stalwart-boba-68dfeb.netlify.app" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.ibb.co/0RkDm5tS/Captura-de-pantalla-2026-10-10-151827.png" width="280" alt="Vista previa del proyecto 1" />
+    <td width="33%" align="center">
+      <a href="https://stalwart-boba-68dfeb.netlify.app" target="_blank">
+        <img src="./assets/proyecto1.png" alt="Proyecto 1" width="100%">
       </a>
-      <p><strong>Proyecto 1</strong></p>
-      <a href="https://stalwart-boba-68dfeb.netlify.app" target="_blank" rel="noopener noreferrer">Ver proyecto</a>
+      <strong>Proyecto 1</strong>
+      <br>
+      <a href="https://stalwart-boba-68dfeb.netlify.app">Ver proyecto</a>
     </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://famous-nasturtium-6df3e0.netlify.app" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.ibb.co/CsmSJ8sf/Captura-de-pantalla-2026-10-10-160510.png" width="280" alt="Vista previa del proyecto 2" />
+    <td width="33%" align="center">
+      <a href="https://famous-nasturtium-6df3e0.netlify.app" target="_blank">
+        <img src="./assets/proyecto2.png" alt="Proyecto 2" width="100%">
       </a>
-      <p><strong>Proyecto 2</strong></p>
-      <a href="https://famous-nasturtium-6df3e0.netlify.app" target="_blank" rel="noopener noreferrer">Ver proyecto</a>
+      <strong>Proyecto 2</strong>
+      <br>
+      <a href="https://famous-nasturtium-6df3e0.netlify.app">Ver proyecto</a>
     </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://thunderous-gumption-d44ff2.netlify.app" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.ibb.co/9mPVQz2n/Captura-de-pantalla-2026-10-10-155545.png" width="280" alt="Vista previa del proyecto 3" />
+    <td width="33%" align="center">
+      <a href="https://thunderous-gumption-d44ff2.netlify.app" target="_blank">
+        <img src="./assets/proyecto3.png" alt="Proyecto 3" width="100%">
       </a>
-      <p><strong>Proyecto 3</strong></p>
-      <a href="https://thunderous-gumption-d44ff2.netlify.app" target="_blank" rel="noopener noreferrer">Ver proyecto</a>
+      <strong>Proyecto 3</strong>
+      <br>
+      <a href="https://thunderous-gumption-d44ff2.netlify.app">Ver proyecto</a>
     </td>
   </tr>
 </table>
