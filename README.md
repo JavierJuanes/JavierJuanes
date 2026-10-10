@@ -14,13 +14,13 @@
   </p>
 
   <ul style="list-style: none; padding-left: 0;">
-    <li>🚀 Experiencia en Angular, C#, SQL Server, MySQL, Firebase y Node.js.</li>
-    <li>🔄 Participación en la migración de aplicaciones de Angular 6 a Angular 20.</li>
-    <li>🧪 Experiencia en QA, testing funcional, pruebas de regresión y APIs con Postman.</li>
-    <li>🔗 Integración de sistemas mediante APIs REST y soluciones contables.</li>
-    <li>📚 Líder del club de programación <strong>CoyotesDev</strong>.</li>
-    <li>🏆 Competidor en ICPC Nacional y ganador de concursos de programación.</li>
-    <li>⭐ Reconocido por excelencia académica y liderazgo tecnológico.</li>
+    <li>Experiencia en Angular, C#, SQL Server, MySQL, Firebase y Node.js.</li>
+    <li>Participación en la migración de aplicaciones de Angular 6 a Angular 20.</li>
+    <li>Experiencia en QA, testing funcional, pruebas de regresión y APIs con Postman.</li>
+    <li>Integración de sistemas mediante APIs REST y soluciones contables.</li>
+    <li>Líder del club de programación <strong>CoyotesDev</strong>.</li>
+    <li>Competidor en ICPC Nacional y ganador de concursos de programación.</li>
+    <li>Reconocido por excelencia académica y liderazgo tecnológico.</li>
   </ul>
 </section>
 
