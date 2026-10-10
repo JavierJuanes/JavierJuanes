@@ -83,7 +83,7 @@ Participación en actividades técnicas y operativas en entornos mineros, siguie
     </td>
     <td width="33%" align="center">
       <a href="https://famous-nasturtium-6df3e0.netlify.app" target="_blank">
-        <img src="./assets/proyecto2.png" alt="Proyecto 2" width="100%">
+        <img src="./assets/proyecto3.png" alt="Proyecto 2" width="100%">
       </a>
       <strong>Proyecto 2</strong>
       <br>
@@ -91,7 +91,7 @@ Participación en actividades técnicas y operativas en entornos mineros, siguie
     </td>
     <td width="33%" align="center">
       <a href="https://thunderous-gumption-d44ff2.netlify.app" target="_blank">
-        <img src="./assets/proyecto3.png" alt="Proyecto 3" width="100%">
+        <img src="./assets/proyecto2.png" alt="Proyecto 3" width="100%">
       </a>
       <strong>Proyecto 3</strong>
       <br>
