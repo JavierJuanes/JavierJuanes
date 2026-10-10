@@ -39,7 +39,7 @@
   <tr>
     <td style="border: 3px solid white; padding: 5px; border-radius: 8px;">
       <a href="https://stalwart-boba-68dfeb.netlify.app" title="Ir al sitio web" target="_blank">
-        <img width="300px" src="https://ibb.co/8LJKNkcp" alt="Vista previa del proyecto" />
+        <img width="300px" src="https://i.ibb.co/0RkDm5tS/Captura-de-pantalla-2026-10-10-151827.png" alt="Vista previa del proyecto" />
       </a>
     </td>
     <td style="border: 3px solid white; padding: 5px; border-radius: 8px;">
