@@ -38,8 +38,8 @@
 <table align="center" cellspacing="40">
   <tr>
     <td style="border: 3px solid white; padding: 5px; border-radius: 8px;">
-      <a href="http://pagina-listado-productos-jhjj.netlify.app/" title="Ir al sitio web" target="_blank">
-        <img width="300px" src="https://i.ibb.co/vvwKjBgp/Screenshot-2025-05-28-125523.png" alt="Vista previa del proyecto" />
+      <a href="https://stalwart-boba-68dfeb.netlify.app" title="Ir al sitio web" target="_blank">
+        <img width="300px" src="https://ibb.co/8LJKNkcp" alt="Vista previa del proyecto" />
       </a>
     </td>
     <td style="border: 3px solid white; padding: 5px; border-radius: 8px;">
