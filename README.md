@@ -42,6 +42,11 @@
         <img width="300px" src="https://i.ibb.co/0RkDm5tS/Captura-de-pantalla-2026-10-10-151827.png" alt="Vista previa del proyecto" />
       </a>
     </td>
+      <td style="border: 3px solid white; padding: 5px; border-radius: 8px;">
+      <a href="https://famous-nasturtium-6df3e0.netlify.app" title="Ir al sitio web" target="_blank">
+        <img width="300px" src="https://i.ibb.co/CsmSJ8sf/Captura-de-pantalla-2026-10-10-160510.png" alt="Vista previa del proyecto" />
+      </a>
+    </td>
     <td style="border: 3px solid white; padding: 5px; border-radius: 8px;">
       <a href="https://thunderous-gumption-d44ff2.netlify.app" title="Ir al sitio web" target="_blank">
         <img width="300px" src="https://i.ibb.co/9mPVQz2n/Captura-de-pantalla-2026-10-10-155545.png" alt="Vista previa del proyecto" />
