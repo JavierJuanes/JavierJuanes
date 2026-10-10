@@ -4,15 +4,15 @@
 <h3 align="center">Ingeniero en Sistemas Computacionales | Desarrollo de Software | Redes y Telecomunicaciones</h3>
 
 <p align="center">
-  Me gusta entender cómo funciona la tecnología, resolver problemas y convertir ideas en soluciones útiles, tanto mediante el desarrollo de software como a través de la infraestructura de redes.
+  Desarrollo soluciones tecnológicas, disfruto resolver problemas y aprender cómo funcionan los sistemas, desde las aplicaciones web hasta la infraestructura de redes.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javierjuanes16/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/javierjuanes16/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Mi%20perfil-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Mi_perfil-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -20,31 +20,31 @@
 
 ## Sobre mí
 
-Soy Ingeniero en Sistemas Computacionales con experiencia en desarrollo, mantenimiento y migración de aplicaciones web. He trabajado con tecnologías como Angular, TypeScript, Java, C# y bases de datos SQL, participando en proyectos empresariales y en la integración de servicios mediante APIs REST.
+Soy Ingeniero en Sistemas Computacionales con experiencia en desarrollo, mantenimiento y migración de aplicaciones web. He trabajado con Angular, TypeScript, Java, C#, bases de datos SQL y APIs REST, participando en proyectos empresariales y en la integración de servicios.
 
-También he ampliado mi experiencia hacia las redes y las telecomunicaciones, participando en trabajos de cableado estructurado, instalación de fibra óptica e infraestructura de comunicaciones en entornos mineros.
+También he ampliado mi experiencia hacia las redes y las telecomunicaciones mediante actividades de instalación, organización y mantenimiento de infraestructura de comunicaciones en entornos mineros.
 
-Me interesa seguir creciendo profesionalmente, aprender nuevas tecnologías y desarrollar soluciones que combinen software, conectividad e infraestructura tecnológica.
+Me interesa seguir desarrollando mis habilidades técnicas, aprender nuevas tecnologías y participar en proyectos donde pueda aportar soluciones prácticas y mantener una mejora continua.
 
 - Desarrollo y mantenimiento de aplicaciones web.
 - Migración de aplicaciones de Angular 6 a Angular 20.
-- Integración de servicios y APIs REST.
-- Pruebas funcionales, regresión y aseguramiento de calidad (QA).
+- Integración de servicios mediante APIs REST.
+- Pruebas funcionales, pruebas de regresión y aseguramiento de calidad (QA).
 - Instalación y mantenimiento de infraestructura de redes y telecomunicaciones.
-- Liderazgo y participación en actividades de programación.
+- Participación en competencias de programación y actividades de liderazgo tecnológico.
 
 ## Tecnologías y herramientas
 
 ### Desarrollo de software
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,java,cs,nodejs,python,cpp,c,kotlin" alt="Tecnologías de desarrollo" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,java,cs,nodejs,python,cpp,c,kotlin" alt="Angular, TypeScript, JavaScript, HTML, CSS, Java, C#, Node.js, Python, C++, C y Kotlin" />
 </p>
 
 ### Bases de datos, herramientas y plataformas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,bitbucket,docker,postman,vscode,visualstudio,androidstudio,pycharm,sublime,linux,arduino" alt="Bases de datos, herramientas y plataformas" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,bitbucket,docker,postman,vscode,visualstudio,androidstudio,pycharm,sublime,linux,arduino" alt="MySQL, Firebase, Git, GitHub, Bitbucket, Docker, Postman, Visual Studio Code, Visual Studio, Android Studio, PyCharm, Sublime Text, Linux y Arduino" />
 </p>
 
 ### Redes y telecomunicaciones
@@ -53,54 +53,53 @@ Me interesa seguir creciendo profesionalmente, aprender nuevas tecnologías y de
 - Instalación y fusión de fibra óptica.
 - Ponchado de cable UTP y Jack UTP.
 - Instalación de charola tipo Charofil.
-- Organización, peinado e identificación de cableado.
+- Peinado, organización e identificación del cableado.
 - Instalación y mantenimiento de servicios de telecomunicaciones en superficie e interior de mina.
 - Apoyo en actividades relacionadas con infraestructura de CCTV y conectividad.
 
 ## Experiencia técnica y seguridad industrial
 
-Mi trabajo en entornos mineros también implica seguir procedimientos de seguridad durante la ejecución de actividades técnicas y operativas.
+Participación en actividades técnicas y operativas en entornos mineros, siguiendo los procedimientos establecidos para la prevención de riesgos y el trabajo seguro.
 
-- Curso de **Trabajo en Alturas** acreditado.
-- Inducción Institucional de Seguridad en Unidad Minera Saucito finalizada.
-- Aplicación de normas de seguridad industrial y prevención de riesgos.
+- Acreditación del curso de **Trabajo en Alturas**.
+- Finalización de la **Inducción Institucional de Seguridad en Unidad Minera Saucito**.
+- Aplicación de normas de seguridad industrial.
 - Uso adecuado del Equipo de Protección Personal (EPP).
 - Cumplimiento de protocolos de trabajo seguro y lineamientos de la unidad minera.
 
+---
+
 ## Proyectos destacados
 
-Estos son algunos de los proyectos web que he desarrollado y publicado. Puedes visitar cada uno haciendo clic en su vista previa.
+Estos son algunos de mis proyectos web publicados. Selecciona una imagen para visitar el sitio correspondiente.
 
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
       <a href="https://stalwart-boba-68dfeb.netlify.app" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.ibb.co/0RkDm5tS/Captura-de-pantalla-2026-10-10-151827.png" width="100%" alt="Vista previa del proyecto 1" />
+        <img src="https://i.ibb.co/0RkDm5tS/Captura-de-pantalla-2026-10-10-151827.png" width="280" alt="Vista previa del proyecto 1" />
       </a>
-      <br />
-      <strong>Proyecto 1</strong>
-      <br />
-      <a href="https://stalwart-boba-68dfeb.netlify.app" target="_blank" rel="noopener noreferrer">Ver sitio web</a>
+      <p><strong>Proyecto 1</strong></p>
+      <a href="https://stalwart-boba-68dfeb.netlify.app" target="_blank" rel="noopener noreferrer">Ver proyecto</a>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://famous-nasturtium-6df3e0.netlify.app" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.ibb.co/CsmSJ8sf/Captura-de-pantalla-2026-10-10-160510.png" width="100%" alt="Vista previa del proyecto 2" />
+        <img src="https://i.ibb.co/CsmSJ8sf/Captura-de-pantalla-2026-10-10-160510.png" width="280" alt="Vista previa del proyecto 2" />
       </a>
-      <br />
-       <br />
-      <a href="https://famous-nasturtium-6df3e0.netlify.app" target="_blank" rel="noopener noreferrer">Ver sitio web</a>
+      <p><strong>Proyecto 2</strong></p>
+      <a href="https://famous-nasturtium-6df3e0.netlify.app" target="_blank" rel="noopener noreferrer">Ver proyecto</a>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://thunderous-gumption-d44ff2.netlify.app" target="_blank" rel="noopener noreferrer">
-        <img src="https://i.ibb.co/CsmSJ8sf/Captura-de-pantalla-2026-10-10-160510.png" width="100%" alt="Vista previa del proyecto 3" />
+        <img src="https://i.ibb.co/9mPVQz2n/Captura-de-pantalla-2026-10-10-155545.png" width="280" alt="Vista previa del proyecto 3" />
       </a>
-      <br />
-      <strong>Proyecto 3</strong>
-      <br />
-      <a href="https://thunderous-gumption-d44ff2.netlify.app" target="_blank" rel="noopener noreferrer">Ver sitio web</a>
+      <p><strong>Proyecto 3</strong></p>
+      <a href="https://thunderous-gumption-d44ff2.netlify.app" target="_blank" rel="noopener noreferrer">Ver proyecto</a>
     </td>
   </tr>
 </table>
+
+---
 
 ## Formación y logros
 
@@ -112,28 +111,28 @@ Estos son algunos de los proyectos web que he desarrollado y publicado. Puedes v
 ## Actualmente aprendiendo
 
 - Desarrollo backend con Java y Spring Boot.
-- Redes IP y fundamentos de telecomunicaciones.
+- Fundamentos de redes IP y telecomunicaciones.
 - Infraestructura de fibra óptica y sistemas CCTV.
-- Integración de servicios y buenas prácticas de desarrollo.
+- Buenas prácticas de desarrollo e integración de servicios.
 
 ## Contacto
 
-Si te interesa colaborar en un proyecto, intercambiar conocimientos o hablar sobre tecnología, puedes encontrarme en las siguientes plataformas.
+Estoy abierto a colaborar en proyectos, intercambiar conocimientos y conocer nuevas oportunidades profesionales.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javierjuanes16/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/javier.juanes.2025" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="42" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/juanes_javier16/?hl=es-la" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="42" height="42" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram" />
   </a>
 </p>
 
 <p align="center">
-  <em>Siempre aprendiendo, construyendo y buscando nuevas formas de resolver problemas.</em>
+  <em>Aprendiendo, construyendo y creciendo a través de la tecnología.</em>
 </p>
