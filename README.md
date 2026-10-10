@@ -44,7 +44,7 @@
     </td>
       <td style="border: 3px solid white; padding: 5px; border-radius: 8px;">
       <a href="https://famous-nasturtium-6df3e0.netlify.app" title="Ir al sitio web" target="_blank">
-        <a href="https://imgbb.com/"><img src="https://i.ibb.co/CsmSJ8sf/Captura-de-pantalla-2026-10-10-160510.png" alt="Captura-de-pantalla-2026-10-10-160510" border="0" /></a> alt="Vista previa del proyecto" />
+        <img src="https://i.ibb.co/CsmSJ8sf/Captura-de-pantalla-2026-10-10-160510.png" alt="Captura-de-pantalla-2026-10-10-160510" border="0" /></a> alt="Vista previa del proyecto" />
       </a>
     </td>
     <td style="border: 3px solid white; padding: 5px; border-radius: 8px;">
