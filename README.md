@@ -43,8 +43,8 @@
       </a>
     </td>
     <td style="border: 3px solid white; padding: 5px; border-radius: 8px;">
-      <a href="https://lista-tareas-angular-jhjj.netlify.app/" title="Ir al sitio web" target="_blank">
-        <img width="300px" src="https://i.ibb.co/Y4xJfVM3/Screenshot-2025-05-28-125439.png" alt="Vista previa del proyecto" />
+      <a href="https://thunderous-gumption-d44ff2.netlify.app" title="Ir al sitio web" target="_blank">
+        <img width="300px" src="https://i.ibb.co/9mPVQz2n/Captura-de-pantalla-2026-10-10-155545.png" alt="Vista previa del proyecto" />
       </a>
     </td>
   </tr>
