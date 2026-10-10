@@ -1,130 +1,140 @@
-<!-- Descripción personal -->
-<section align="left">
-  <p>
-    <strong>Desarrollador de Software Full Stack</strong> con experiencia en desarrollo web utilizando
-    <strong>Angular (v6–20)</strong>, <strong>TypeScript</strong>, <strong>Java</strong>,
-    <strong>C#</strong>, bases de datos SQL y <strong>APIs REST</strong>.
-  </p>
+<!-- Presentación -->
+<h1 align="center">Javier Juanes</h1>
 
-  <p>
-    He participado en el desarrollo, mantenimiento y migración de sistemas empresariales,
-    colaborando en proyectos financieros, educativos y soluciones web de gestión.
-    Mi experiencia incluye desarrollo de software, aseguramiento de calidad (QA),
-    integración de servicios e implementación de componentes reutilizables.
-  </p>
-
-  <p>
-    Complemento mi perfil de desarrollo con experiencia técnica en
-    <strong>redes y telecomunicaciones</strong>, participando en actividades de cableado estructurado,
-    instalación de fibra óptica, infraestructura de red y mantenimiento de servicios
-    de telecomunicaciones en superficie e interior de mina.
-  </p>
-
-  <ul>
-    <li>Desarrollo de aplicaciones web con Angular, TypeScript, Java y C#.</li>
-    <li>Participación en la migración de aplicaciones de Angular 6 a Angular 20.</li>
-    <li>Integración de servicios mediante APIs REST y conexión con bases de datos.</li>
-    <li>Experiencia en QA, pruebas funcionales, pruebas de regresión y Postman.</li>
-    <li>Instalación de cableado estructurado, ponchado de UTP y Jack UTP.</li>
-    <li>Instalación y fusión de fibra óptica, canalización Charofil y organización de cableado.</li>
-    <li>Participación en actividades de instalación y mantenimiento de servicios de telecomunicaciones en mina.</li>
-    <li>Líder del club de programación <strong>CoyotesDev</strong>.</li>
-    <li>Participación en competencias de programación, incluyendo ICPC Nacional.</li>
-    <li>Reconocimiento por excelencia académica y liderazgo tecnológico.</li>
-  </ul>
-</section>
-
-<hr />
-
-<!-- Tecnologías de desarrollo -->
-<h2 align="left">Tecnologías y herramientas</h2>
+<h3 align="center">Ingeniero en Sistemas Computacionales | Desarrollo de Software | Redes y Telecomunicaciones</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,kotlin,python,angular,nodejs,firebase,mysql,git,github,bitbucket,androidstudio,pycharm,sublime,vscode,visualstudio,docker,postman,arduino,linux" alt="Tecnologías y herramientas de desarrollo" />
+  Me gusta entender cómo funciona la tecnología, resolver problemas y convertir ideas en soluciones útiles, tanto mediante el desarrollo de software como a través de la infraestructura de redes.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/javierjuanes16/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Mi%20perfil-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<!-- Redes y telecomunicaciones -->
-<h2 align="left">Redes y telecomunicaciones</h2>
+---
 
-<section align="left">
-  <p>
-    Experiencia práctica en actividades de instalación, organización y mantenimiento
-    de infraestructura de telecomunicaciones, siguiendo procedimientos de seguridad
-    industrial en entornos de trabajo minero.
-  </p>
+## Sobre mí
 
-  <ul>
-    <li>Cableado estructurado e infraestructura de red.</li>
-    <li>Instalación y fusión de fibra óptica.</li>
-    <li>Ponchado de cable UTP y Jack UTP.</li>
-    <li>Instalación de charola tipo Charofil para canalización de cableado.</li>
-    <li>Peinado, organización e identificación de cables de red.</li>
-    <li>Instalación y mantenimiento de servicios de telecomunicaciones en superficie e interior de mina.</li>
-    <li>Apoyo en actividades técnicas relacionadas con infraestructura de CCTV y conectividad.</li>
-  </ul>
-</section>
+Soy Ingeniero en Sistemas Computacionales con experiencia en desarrollo, mantenimiento y migración de aplicaciones web. He trabajado con tecnologías como Angular, TypeScript, Java, C# y bases de datos SQL, participando en proyectos empresariales y en la integración de servicios mediante APIs REST.
 
-<!-- Seguridad industrial -->
-<h3 align="left">Seguridad industrial</h3>
+También he ampliado mi experiencia hacia las redes y las telecomunicaciones, participando en trabajos de cableado estructurado, instalación de fibra óptica e infraestructura de comunicaciones en entornos mineros.
 
-<ul>
-  <li>Acreditación del curso de <strong>Trabajo en Alturas</strong>.</li>
-  <li>Finalización de la <strong>Inducción Institucional de Seguridad en Unidad Minera Saucito</strong>.</li>
-  <li>Conocimiento y cumplimiento de normas de seguridad industrial.</li>
-  <li>Uso de Equipo de Protección Personal (EPP) y aplicación de protocolos de trabajo seguro.</li>
-  <li>Seguimiento de los lineamientos de seguridad establecidos por la empresa y la unidad minera.</li>
-</ul>
+Me interesa seguir creciendo profesionalmente, aprender nuevas tecnologías y desarrollar soluciones que combinen software, conectividad e infraestructura tecnológica.
 
-<hr />
+- Desarrollo y mantenimiento de aplicaciones web.
+- Migración de aplicaciones de Angular 6 a Angular 20.
+- Integración de servicios y APIs REST.
+- Pruebas funcionales, regresión y aseguramiento de calidad (QA).
+- Instalación y mantenimiento de infraestructura de redes y telecomunicaciones.
+- Liderazgo y participación en actividades de programación.
 
-<!-- Proyectos -->
-<h2 align="left">Algunos proyectos</h2>
+## Tecnologías y herramientas
 
-<table align="center">
+### Desarrollo de software
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,java,cs,nodejs,python,cpp,c,kotlin" alt="Tecnologías de desarrollo" />
+</p>
+
+### Bases de datos, herramientas y plataformas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,bitbucket,docker,postman,vscode,visualstudio,androidstudio,pycharm,sublime,linux,arduino" alt="Bases de datos, herramientas y plataformas" />
+</p>
+
+### Redes y telecomunicaciones
+
+- Cableado estructurado e infraestructura de red.
+- Instalación y fusión de fibra óptica.
+- Ponchado de cable UTP y Jack UTP.
+- Instalación de charola tipo Charofil.
+- Organización, peinado e identificación de cableado.
+- Instalación y mantenimiento de servicios de telecomunicaciones en superficie e interior de mina.
+- Apoyo en actividades relacionadas con infraestructura de CCTV y conectividad.
+
+## Experiencia técnica y seguridad industrial
+
+Mi trabajo en entornos mineros también implica seguir procedimientos de seguridad durante la ejecución de actividades técnicas y operativas.
+
+- Curso de **Trabajo en Alturas** acreditado.
+- Inducción Institucional de Seguridad en Unidad Minera Saucito finalizada.
+- Aplicación de normas de seguridad industrial y prevención de riesgos.
+- Uso adecuado del Equipo de Protección Personal (EPP).
+- Cumplimiento de protocolos de trabajo seguro y lineamientos de la unidad minera.
+
+## Proyectos destacados
+
+Estos son algunos de los proyectos web que he desarrollado y publicado. Puedes visitar cada uno haciendo clic en su vista previa.
+
+<table>
   <tr>
-    <td align="center" valign="top">
-      <a href="https://stalwart-boba-68dfeb.netlify.app" target="_blank" rel="noopener noreferrer" title="Visitar proyecto 1">
-        <img width="300" src="https://i.ibb.co/0RkDm5tS/Captura-de-pantalla-2026-10-10-151827.png" alt="Vista previa del proyecto 1" />
+    <td align="center" valign="top" width="33%">
+      <a href="https://stalwart-boba-68dfeb.netlify.app" target="_blank" rel="noopener noreferrer">
+        <img src="https://i.ibb.co/0RkDm5tS/Captura-de-pantalla-2026-10-10-151827.png" width="100%" alt="Vista previa del proyecto 1" />
       </a>
+      <br />
+      <strong>Proyecto 1</strong>
+      <br />
+      <a href="https://stalwart-boba-68dfeb.netlify.app" target="_blank" rel="noopener noreferrer">Ver sitio web</a>
     </td>
-    <td align="center" valign="top">
-      <a href="https://famous-nasturtium-6df3e0.netlify.app" target="_blank" rel="noopener noreferrer" title="Visitar proyecto 2">
-        <img width="300" src="https://i.ibb.co/CsmSJ8sf/Captura-de-pantalla-2026-10-10-160510.png" alt="Vista previa del proyecto 2" />
+    <td align="center" valign="top" width="33%">
+      <a href="https://famous-nasturtium-6df3e0.netlify.app" target="_blank" rel="noopener noreferrer">
+        <img src="https://i.ibb.co/CsmSJ8sf/Captura-de-pantalla-2026-10-10-160510.png" width="100%" alt="Vista previa del proyecto 2" />
       </a>
+      <br />
+      <strong>Proyecto 2</strong>
+      <br />
+      <a href="https://famous-nasturtium-6df3e0.netlify.app" target="_blank" rel="noopener noreferrer">Ver sitio web</a>
     </td>
-    <td align="center" valign="top">
-      <a href="https://thunderous-gumption-d44ff2.netlify.app" target="_blank" rel="noopener noreferrer" title="Visitar proyecto 3">
-        <img width="300" src="https://i.ibb.co/9mPVQz2n/Captura-de-pantalla-2026-10-10-155545.png" alt="Vista previa del proyecto 3" />
+    <td align="center" valign="top" width="33%">
+      <a href="https://thunderous-gumption-d44ff2.netlify.app" target="_blank" rel="noopener noreferrer">
+        <img src="https://i.ibb.co/9mPVQz2n/Captura-de-pantalla-2026-10-10-155545.png" width="100%" alt="Vista previa del proyecto 3" />
       </a>
+      <br />
+      <strong>Proyecto 3</strong>
+      <br />
+      <a href="https://thunderous-gumption-d44ff2.netlify.app" target="_blank" rel="noopener noreferrer">Ver sitio web</a>
     </td>
   </tr>
 </table>
 
-<hr />
+## Formación y logros
 
-<!-- Formación y logros -->
-<h2 align="left">Formación y logros</h2>
+- Ingeniería en Sistemas Computacionales.
+- Reconocimiento como mejor promedio de mi generación.
+- Participación en competencias de programación, incluyendo ICPC Nacional.
+- Expresidente del club de programación **CoyotesDev**.
 
-<ul>
-  <li>Ingeniería en Sistemas Computacionales.</li>
-  <li>Reconocimiento como mejor promedio de mi generación.</li>
-  <li>Participación en competencias de programación, incluyendo ICPC Nacional.</li>
-  <li>Liderazgo en el club de programación <strong>CoyotesDev</strong>.</li>
-</ul>
+## Actualmente aprendiendo
 
-<!-- Contacto -->
-<h2 align="left">Conecta conmigo</h2>
+- Desarrollo backend con Java y Spring Boot.
+- Redes IP y fundamentos de telecomunicaciones.
+- Infraestructura de fibra óptica y sistemas CCTV.
+- Integración de servicios y buenas prácticas de desarrollo.
+
+## Contacto
+
+Si te interesa colaborar en un proyecto, intercambiar conocimientos o hablar sobre tecnología, puedes encontrarme en las siguientes plataformas.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javierjuanes16/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/javier.juanes.2025" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="48" height="48" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="42" alt="Facebook" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/juanes_javier16/?hl=es-la" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="48" height="48" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="42" height="42" alt="Instagram" />
   </a>
+</p>
+
+<p align="center">
+  <em>Siempre aprendiendo, construyendo y buscando nuevas formas de resolver problemas.</em>
 </p>
